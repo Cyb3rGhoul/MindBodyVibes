@@ -1,10 +1,10 @@
-# MindBodyVibes
+# MindBodyVibe
 
-![MindBodyVibes Logo](assets\readme-img.jpg)
+![MindBodyVibe Logo](https://github.com/Cyb3rGhoul/MindBodyVibes/blob/main/assets/readme-img.jpg?raw=true)
 
 ## Overview
 
-Welcome to MindBodyVibes! This project, developed for the [Hackathon Name], is dedicated to promoting mental health, fitness, and overall well-being.
+Welcome to MindBodyVibe! This project, developed for the [Hackathon Name], is dedicated to promoting mental health, fitness, and overall well-being.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to MindBodyVibes! This project, developed for the [Hackathon Name], is d
 
 ## Getting Started
 
-To start exploring MindBodyVibes:
+To start exploring MindBodyVibe:
 
 1. Clone the repository:
 
