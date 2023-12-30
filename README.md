@@ -1,6 +1,6 @@
 # MindBodyVibes
 
-![MindBodyVibes Logo](assets\readme-img.jpg)
+![MindBodyVibes Logo](https://github.com/Cyb3rGhoul/MindBodyVibes/blob/main/assets/readme-img.jpg?raw=true)
 
 ## Overview
 
