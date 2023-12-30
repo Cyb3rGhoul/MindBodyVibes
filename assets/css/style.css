@@ -305,7 +305,7 @@ body {
 
 .logo {
   color: var(--black-chocolate);
-  font-size: 23px;
+  font-size: 21px;
   line-height: 1;
   font-weight: var(--fw-700);
 }
